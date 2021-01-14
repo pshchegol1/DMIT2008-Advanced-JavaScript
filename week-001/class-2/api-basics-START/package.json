@@ -1,0 +1,16 @@
+{
+  "name": "api-basics-START",
+  "version": "1.0.0",
+  "description": "It's worth taking a look at some web application architecture. I am including a few links on the subject for you to read. It's a good idea to have a general understanding of how a single page web app is built. Also how a PWA is build. We should also know the difference between Server Side Rendered Pages and Staticlly Generated Pages. We will get to these topics later in the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "parcel": "^1.12.4"
+  }
+}
