@@ -9,7 +9,7 @@ function createElementFromTemplate(template =[])
     }
     
     elements = template.map((templateLiteral, index)=>{
-        const element  = document.createRange().createContextualFragment(templateLiteral)
+        const element  = document.createRange().createContextualFragment(templateLiteral).children[0]
         console.log(element)
         return element
     })

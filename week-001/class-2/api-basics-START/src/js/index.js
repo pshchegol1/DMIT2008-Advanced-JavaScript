@@ -51,8 +51,10 @@
 
             employees = markupContainer('aside', 'display', markup)
 
+            
+
            
-       })
+       })//end of httpGetRequest
    })
 
 
