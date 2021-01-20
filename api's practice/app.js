@@ -9,6 +9,7 @@ window.addEventListener('load',function(e)
 
       console.log(button1,button2, button3,output);
 
+    
 
 
     //Event Listener
