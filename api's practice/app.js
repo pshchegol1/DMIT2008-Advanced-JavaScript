@@ -46,6 +46,7 @@ window.addEventListener('load',function(e)
        
             data.forEach(post => {
                 li += `<li>${post.title}</li>`
+                li += `<img src="${post.img}" alt="">`
                 
             });
             output.innerHTML = li;
@@ -71,6 +72,7 @@ window.addEventListener('load',function(e)
        
             data.forEach(users => {
                 li += `<li>${users.login}</li>`
+                li += `<img src="${users.avatar_url}" alt="">`
                 
             });
             output.innerHTML = li;

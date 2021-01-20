@@ -1,14 +1,22 @@
 [
     {
         "title": "GTA 5",
-        "tag": "Action"
+        "tag": "Action",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/220px-Grand_Theft_Auto_V.png"
     },
     {
         "title": "S.T.A.L.K.E.R.2",
-        "tag": "Action - Open World"
+        "tag": "Action - Open World",
+        "img": "https://bloody-disgusting.com/wp-content/uploads/2020/01/stalker2.jpg"
     },
     {
         "title": "Far Cry 4",
-        "tag": "Action Wild Mountains"
+        "tag": "Action Wild Mountains",
+        "img": "https://hb.imgix.net/21eb56c130cfcb979b104d44728e92554b29c7d8.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b6d277985e6f5eb8b21b5b5ecb830b87"
+    },
+    {
+        "title": "Metro Exodus",
+        "tag": "Post Apocaliptic",
+        "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/capsule_616x353.jpg?t=1600359844"
     }
 ]
